@@ -9,7 +9,7 @@ Experienced in both Front-end and Back-end technologies.
 ![Static Badge](https://img.shields.io/badge/Vue-VUE?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&logoSize=big&labelColor=black&color=%234FC08D)
 
 :mailbox: Reach me out!
-dmytro@aesthetics360.com
+contact@dmytrousenko.com
 
 <!--
 **DmytroUsenko/DmytroUSenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
