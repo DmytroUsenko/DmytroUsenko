@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Dmytro Usenko, a Senior Software Engineer with more than 10 years of experience in Computer Vision and Machine Learning. 
-Experienced in both Front-end and Back-end technologies. 
+Experienced in both Front-end and Back-end technologies.
+
 I am an AWS Certified Developer.
 
 ### My stack is:
