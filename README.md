@@ -2,6 +2,7 @@
 
 I'm Dmytro Usenko, a Senior Software Engineer with more than 10 years of experience in Computer Vision and Machine Learning. 
 Experienced in both Front-end and Back-end technologies. 
+I am an AWS Certified Developer.
 
 ### My stack is:
 ![Static Badge](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=python&logoColor=dark&logoSize=big&labelColor=black&color=blue)
