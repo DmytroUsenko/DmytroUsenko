@@ -10,7 +10,7 @@ ASIS and SIA member.
 ### Certifications & Memberships
 
 <a href="https://www.credly.com/badges/269e4ac1-bb0f-4377-9c8e-f7217cfe8ce2/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-Badge-orange?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect"/>
 </a>
 
 <a href="https://www.credly.com/badges/0d882a62-4275-4ad4-bacb-a66c8634f649/public_url" target="_blank">
