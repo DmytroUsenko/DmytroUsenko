@@ -4,7 +4,7 @@ I'm Dmytro Usenko, a Senior Software Engineer with more than 10 years of experie
 
 I work across architecture, back-end, front-end, cloud infrastructure, LLM systems, retrieval pipelines, and production-ready AI applications.
 
-I am an AWS Certified Developer.  
+I am an AWS Certified Solutions Architect and Developer.  
 ASIS and SIA member.
 
 ### Certifications & Memberships
